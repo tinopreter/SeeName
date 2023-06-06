@@ -9,7 +9,11 @@
 
 This is a lazy man's tool for CNAME lookups. It's technically a wrapper for the **dig** tool.
 Initially, I opted for the **hosts** tool, but that tool wasn't recursive, when a domain has
-2 CNAMEs (or more), The hosts tool only shows one. Hence why I went for _dig_.
+2 CNAMEs (or more), The hosts tool only shows one. Hence why I went for _dig_. You'll find weird code,
+buggy code..and sick! code .hehe
+
+**You should have the Dig tool installed**
+
 
 **Usage:**
 
